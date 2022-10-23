@@ -3,7 +3,8 @@ La abuela de Internet explorer
 
 Rosalba es una cuchita que un dia estando sola
 decidio encender el televisor con teclas y esa
-cosa rara llamada rat??n que ten??a su hijo sobre
+cosa rara llamada raton que teniaa su hijo sobre
+
 la mesa de fina madera.
 
 Penso que era igual que usar una maquina de escribir asi
@@ -41,4 +42,8 @@ La abuela decidio aceptar buscar ayuda y se recupero de la adicción que tenia a
 tecnologia, en base a su experiencia ella le enseñaba a sus vecinos como manejar las redes sociales de
 una manera responsable.
 
+Y así concluye la historia de la cuchita que pasó de estar deprecada, a volverse una usuaria constante de las redes sociales y aprendió a programar en React, al punto que se volvió 
+docente en Digital, usando buenas prácticas y enseñando con responsabilidad.
 
+La abuela de Internet.
+autores : Sebastián, Andrés, Estive, Camilo, Sphefanie, Natalia, Carlos, Yuri, Julián. 
